@@ -1,0 +1,13 @@
+name: EpicBowGun
+version: 1.0.0
+main: com.epicbowgun.EpicBowGun
+description: A Minecraft plugin that shoots arrows like a machine gun
+api-version: "1.20"
+authors:
+  - extreamfilmakingvfx-sys
+
+commands:
+  machinegun:
+    description: Toggle machine gun bow mode
+    usage: /machinegun
+    aliases: [mg, bowgun]
